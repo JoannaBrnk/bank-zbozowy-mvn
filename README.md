@@ -1,2 +1,2 @@
 # bank-zbozowy-mvn
-![build_status](https://api.travis-ci.com/JoannaBrnk/bank-zbozowy-mvn.svg?branch=main)
+[![Build Status](https://travis-ci.com/JoannaBrnk/bank-zbozowy-mvn.svg?branch=main)](https://travis-ci.com/JoannaBrnk/bank-zbozowy-mvn)
